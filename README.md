@@ -19,7 +19,7 @@ Template code is provided in the notebook `titanic_survival_exploration.ipynb` n
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `titanic_survival_exploration/` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory `Titanic-Survival/` (that contains this README) and run one of the following commands:
 
 ```bash
 jupyter notebook titanic_survival_exploration.ipynb
